@@ -834,7 +834,7 @@ int Gw_procRcvdCmd()
 void setup() 
 {
    // initialize both serial ports:
-  Serial.println("Setup Jan10 1:15pm");
+  Serial.println("Setup Jan12 11:15am");
   Serial.begin(38400);
   swSer.begin(38400);
   Serial.println();
